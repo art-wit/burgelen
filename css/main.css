@@ -1,0 +1,172 @@
+/** font **/
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-ExtraBold;
+    src: url(../fonts/Open_Sans/OpenSans-ExtraBold.ttf);
+}
+
+p  {
+	font-size: 14px;
+    font-family: OpenSans-Regular;
+   }
+
+p b {
+	font-size: 14px;
+    font-family: OpenSans-Regular;
+   }
+
+a {
+    color: black;
+	text-decoration: none
+	;	
+}
+
+a:hover {
+	color: black;
+	text-decoration: none
+	;
+}
+
+a b {
+	color: black;
+	text-decoration: none;
+    font-size: 20px;
+}
+
+.topabsolute {
+	position: absolute;
+	
+}
+
+.topabsolute2 {
+	position: absolute;
+	padding-top: 23%;
+}
+
+.topabsolute3 {
+	position: absolute;
+	margin-top: 20%;
+}
+
+.topabsolute4 {
+	position: absolute;
+	margin-top: 19%;
+    margin-left: 60%;
+}
+
+.topabsolute5 {
+	position: absolute;
+	margin-top: 26%;
+	margin-left: 13%;
+}
+
+.topabsolute6 {
+	position: absolute;
+    margin-top: 28%;
+    margin-left: 61%;
+}
+
+.pborder {
+  font-family: OpenSans-ExtraBold;	
+  font-size: 16px;	
+  font-weight: bold;
+  padding: 17px;
+  text-transform: uppercase;
+  border-width: 3px;
+  border-color: rgb(125, 223, 226);
+  border-style: solid;
+
+}
+
+.zone357{
+	background-color: #fff;
+	background-size: 350px 350px;
+}
+
+.pad0 {
+	padding: 0px;
+}
+
+.padleft5 {
+	padding-left: 5px;
+}
+.pad25 {
+	padding: 25px;
+}
+
+.marbot30{
+	margin-bottom: 30px;
+}
+
+.mar0 {
+margin: 0px;
+}
+
+.top-section {
+	height: 130px;
+	background-color: #fff;
+}
+
+.marr{
+	margin-left: 6%;
+}
+
+.pcolblu {
+    margin-top: 16%;
+    line-height: 2.143;
+	background: #7ddfe2;
+    border: none;
+    border-radius: 14px;
+    padding: 6px 16px 6px 16px;
+}
+
+.center-image {
+	height: 100%
+}
+
+.awd {
+	width: 100%;
+}
+
+.hgt {
+	height: 100%;
+}
+
+.mar-top15{
+	margin-top: 15px;
+}
+
+.events {
+	background-color: #7ddfe2;
+	height: 145px;
+}
+
+.event-text {
+	padding-top: 15px;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgb(0, 0, 0);
+	font-family:  OpenSans-Regular;
+	text-transform: uppercase;
+}
+
+.event-img {
+	margin-left: 25%;
+}
+
+.foot {
+	background-color: #000000;
+}
+
+.foottext{
+font-size: 14px;
+font-family:  OpenSans-Regular;
+text-transform: uppercase;
+line-height: 2.857;
+color: rgb(178, 231, 37);	
+}
